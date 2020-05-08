@@ -1,5 +1,5 @@
 ---
-title: 记录一些好的句子
+title: 摘录
 date: 2019-11-06
 author: akara
 tags: 
